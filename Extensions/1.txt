@@ -1,0 +1,27 @@
+ Extensions
+
+jupyter(1-5)
+Blackbox AI Code Generation,Code Chat,Code Search
+Code Runner
+CodeSnap
+Excel Viewer
+IntelliCode
+IntelliCode API Usage Examples
+jupyter
+jupyter cell tags
+jupyter keymap
+jupyter Notebook renderers
+jupyter slide show
+live server
+Markdown all in one
+markdown PDF
+markdown shortcuts
+markdownlint
+prettier-Code formatter
+python
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+DMas
+pandas
+bodmas
+((2*3)-2*3/2+3-6=0
+Question 2:
+TOP 10 IDE's
+
+
+GitHub student developer pack
+
+Figma
+
+telegram
+
+top 10 extensions of vs code for python and data science
+
+...
+
+why not in terminal but in vs. ** //

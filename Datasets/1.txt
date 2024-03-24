@@ -1,0 +1,7 @@
+kaggle.com
+google dataseatch
+github.com
+faostats.com
+wikipedia,youtube(scrapping)
+crime detection
+Uni database
