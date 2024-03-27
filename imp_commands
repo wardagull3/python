@@ -1,0 +1,3 @@
+for clonning a project
+
+git config http.postBuffer 524288000 
