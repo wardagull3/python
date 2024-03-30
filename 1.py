@@ -2,7 +2,7 @@
 # 2**3 
 
 # operators
-# print (6//2)
+# print (6//2) # for non integers
 # PEMDAS
 
 # datatype
@@ -63,11 +63,12 @@
 
 # for i in range(2,5):
 #     print(i)
+
 # days= ['mon','tue','wed']
 # for i in days:
 #     if i=='tue':
-#         # continue
-#         break
+#         continue
+#         # break
 #     print(i)
 
 

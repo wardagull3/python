@@ -31,14 +31,14 @@ and this is another one.
 
 ## 6. list
 
-- aaa
-    - bbb
-      - ccc
-      - ddd 
-    - fff
-- eee
-- rrr
-- lll
+* aaa
+    * bbb
+      * ccc
+      * ddd 
+    * fff
+* eee
+* rrr
+* lll
 
 ## 7.Num of list
 
@@ -53,6 +53,7 @@ and this is another one.
 
 ---
 ___
+
 ***
 
 ## 9.Links and Hyperlinks
@@ -92,9 +93,9 @@ Column A | Column B | Column C
 
 Column A | Column B | Column C
 ---------|----------|---------
- A1 | B1 | C1
- A2 | B2 | C2
- A3 | B3 | C3
+  A1 | B1 | C1
+  A2 | B2 | C2
+  A3 | B3 | C3
 
 ## Content
 
