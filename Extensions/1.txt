@@ -20,7 +20,8 @@ markdownlint
 prettier-Code formatter
 python
 
-
+pip install nbformat
+pip install joblib
 
 
 
