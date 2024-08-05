@@ -69,8 +69,8 @@ I plan to continue exploring more advanced topics and contribute to open-source 
 
 Feel free to reach out if you have any questions or would like to collaborate on projects:
 
-- **Email**: [your.email@example.com](b-25814@usa.student.edu.pk)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/wardagull23)
+- **Email**: [b-25814@usa.student.edu.pk](b-25814@usa.student.edu.pk)
+- **LinkedIn**: [wardagull23](https://www.linkedin.com/in/wardagull23)
 - 
 
 Thank you for visiting my repository!
